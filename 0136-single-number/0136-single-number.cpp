@@ -2,13 +2,15 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         
-        int ans = 0;
+       int n = nums.size();
+       int temp = 0;
 
-        for (int num : nums) {
-            ans ^= num;
-        }
+       for(int i = 0; i <n; i++){
+        temp =temp ^ nums[i];
+       }
 
-        return ans;
+
+        return temp;
     }
         
     
