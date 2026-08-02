@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubhisri24/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
