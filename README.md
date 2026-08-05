@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhisri24/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
