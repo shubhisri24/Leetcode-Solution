@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0075-sort-colors) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0189-rotate-array) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
