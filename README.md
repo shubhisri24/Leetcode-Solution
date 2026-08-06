@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shubhisri24/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/shubhisri24/Leetcode-Solution/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
